@@ -16,11 +16,11 @@ By analyzing 2015 pizza sales data, this report aims to uncover valuable insight
 # I.	Key Performance Indicator (KPI)
 This report presents an analysis of key performance indicators for the pizza manufacturing and ordering. They include Total Revenue, Total Quantity Sold, Total Orders, Average Order Value, and Average Pizzas per Order.
  
-•	Total Revenue: The total revenue generated in 2015 was more than $817k. This figure represents the overall sales performance for the year and serves as a crucial indicator of financial success and growth.
-•	Total Quantity Sold: A total of 49,574 pizzas were sold in 2015. This metric provides insight into the sales volume and, in conjunction with revenue, helps determine the average selling price per pizza.
-•	Total Orders: The company processed 21,350 orders throughout the year. This metric represents the number of individual transactions and provides valuable information about customer ordering behavior.
-•	Average Order Value: The average order value for 2015 was $38.31. It indicates the average amount spent per customer transaction.
-•	Average Pizzas per Order: The average number of pizzas per order was 2.32. It suggests that, on average, customers purchase more than two pizzas per transaction.
+-	**Total Revenue:** The total revenue generated in 2015 was more than $817k. This figure represents the overall sales performance for the year and serves as a crucial indicator of financial success and growth.
+-	**Total Quantity Sold:** A total of 49,574 pizzas were sold in 2015. This metric provides insight into the sales volume and, in conjunction with revenue, helps determine the average selling price per pizza.
+-	**Total Orders:** The company processed 21,350 orders throughout the year. This metric represents the number of individual transactions and provides valuable information about customer ordering behavior.
+-	**Average Order Value:** The average order value for 2015 was $38.31. It indicates the average amount spent per customer transaction.
+-	**Average Pizzas per Order:** The average number of pizzas per order was 2.32. It suggests that, on average, customers purchase more than two pizzas per transaction.
 These KPIs offer a snapshot of the company's performance in 2015. They highlight key aspects of the business and act as a foundation for further investigation into the drivers of these results.
 # II.	Sale Trends Analysis
  
@@ -32,10 +32,10 @@ Daily sales exhibit a strong correlation with meal times. Revenue is minimal bet
 # III.	Product Performance Analysis
  
 The rankings reveal some interesting findings between quantity sold and revenue generated:
-•	Classic Pizzas: Dominate both in terms of quantity sold and revenue with such great gaps, suggesting they are the most popular and contribute the most to the bottom line. This isn't surprising, as "classic" often refers to core, traditional offerings, which helps bring the brands to the customers.
-•	Supreme Pizzas: Also perform strongly in both categories, ranking second in quantity and revenue. This indicates a good balance of popularity and profitability.
-•	Chicken Pizzas: Show a noticeable difference in ranking. While they are the third most popular in terms of quantity, they generate the least revenue. This suggests a potentially lower price point or smaller portion sizes for chicken pizzas.
-•	Veggie Pizzas: Present the most significant difference. They rank fourth in quantity sold but third in revenue generated, surpassing chicken pizzas. This implies that veggie pizzas, while not as frequently ordered, may have a higher price point or larger portion sizes than chicken pizzas, contributing more to overall revenue despite lower sales volume.
+-	Classic Pizzas: Dominate both in terms of quantity sold and revenue with such great gaps, suggesting they are the most popular and contribute the most to the bottom line. This isn't surprising, as "classic" often refers to core, traditional offerings, which helps bring the brands to the customers.
+-	Supreme Pizzas: Also perform strongly in both categories, ranking second in quantity and revenue. This indicates a good balance of popularity and profitability.
+-	Chicken Pizzas: Show a noticeable difference in ranking. While they are the third most popular in terms of quantity, they generate the least revenue. This suggests a potentially lower price point or smaller portion sizes for chicken pizzas.
+-	Veggie Pizzas: Present the most significant difference. They rank fourth in quantity sold but third in revenue generated, surpassing chicken pizzas. This implies that veggie pizzas, while not as frequently ordered, may have a higher price point or larger portion sizes than chicken pizzas, contributing more to overall revenue despite lower sales volume.
 The dominance of classic and supreme pizzas suggests that these categories are core offerings and should be maintained and potentially promoted. Understanding what makes these pizzas so popular can inform the development of new menu items. There might be an opportunity to increase the sales volume of veggie pizzas. Targeted marketing campaigns could highlight the value proposition of veggie pizzas, emphasizing their higher revenue contribution per unit. 
      
 The ranking for the most and least popular pizzas witness remarkable patterns. While the Classic pizzas (Deluxe, Hawaiian, Pepperoni) sell the most, the Chicken generates more revenue due to their higher margins. The top 5 popular pizzas contribute more than 20% in total quantity sold and 25% of the total sales. The vegetarian pizzas are the least popular ones, especially Brie Carre with only 490 in quantity sold, generating $11.5k throughout the year. This strengthens the case for reviewing these menu items. They might be candidates for removal.
@@ -55,26 +55,34 @@ Based on these findings, a thorough analysis of bacon-containing products is rec
     
 The analysis reveals significant variations in the relationship between pizza prices and sales volume across different categories. Chicken pizzas exhibit an unusually strong positive correlation (0.991), suggesting that higher prices are associated with increased sales, potentially driven by high demand for specific variations, effective marketing, or a recognized premium quality. 
 On the flipped side, veggie and supreme pizzas show near-zero correlations, indicating that price has minimal influence on customer purchasing habits in these categories. Classic pizzas, however, demonstrate a weak negative correlation (-0278), aligning with the expected price sensitivity of customers in this segment, where higher prices tend to result in slightly lower sales volumes. 
+
 # VI.	Order Frequency and Timing
- 
 In terms of orders, multi-item orders significantly outnumber single-item ones. Specifically, multi-item orders account for approximately 61.59% of all orders (13,150 orders), while single-item orders represent about 38.41% (8,200 orders). This indicates a clear preference among customers for purchasing multiple items in a single transaction.
 The analysis of order time intervals reveals that the average time between orders (within the same day) is 10.83 minutes. The longest interval between any two orders is 139 minutes, while the minimum interval between orders is 0 minutes, indicating that some orders were placed consecutively.
 These findings provide insight into the frequency of order placement. The average interval indicates a relatively consistent flow of orders, while the maximum and minimum intervals highlight the variability in order timing.
+
 # VII.	Conclusion and Recommendations
 This comprehensive analysis of pizza manufacturing and ordering data for 2015 reveals a successful year, characterized by strong revenue and sales volume, driven primarily by classic and supreme pizzas. The business demonstrates a clear understanding of customer preferences, particularly regarding pizza sizes and ingredients. Sales trends highlight the influence of seasonal factors, holiday periods, weekend demand, and meal times, providing valuable insights for operational adjustments. The strong positive correlation between sales volume and revenue underscores the effectiveness of current sales strategies. However, discrepancies in revenue generation, such as the poor performance of certain vegetarian options, necessitate further investigation and strategic adjustments.
+
 Recommendations:
+
 **1.	Optimize Product Portfolio: **
-o	Capitalize on the popularity of classic and supreme pizzas by maintaining high standards and potentially introducing new variations.
-o	Conduct a thorough review of chicken and bacon-containing pizza pricing and portion sizes to address revenue discrepancies.
-o	Evaluate and potentially revise or remove low-performing vegetarian pizzas, such as Brie Carre, given the overall poor performance.
+
+-	Capitalize on the popularity of classic and supreme pizzas by maintaining high standards and potentially introducing new variations.
+-	Conduct a thorough review of chicken and bacon-containing pizza pricing and portion sizes to address revenue discrepancies.
+-	Evaluate and potentially revise or remove low-performing vegetarian pizzas, such as Brie Carre, given the overall poor performance.
+
 **2.	Enhance Marketing and Sales Strategies: **
-o	Develop targeted marketing campaigns to promote veggie pizzas, emphasizing their value proposition and higher revenue contribution. We may introduce attractive bundle or combo deals for vegetarian pizzas to increase order sizes and sale volume.
-o	Leverage weekend and mealtime sales trends by optimizing staffing, stock levels, and marketing efforts during peak periods.
-o	Explore promotional activities and sales boosts to mitigate sales declines observed during specific weeks and months (e.g., week 39, September/October). On holiday periods (e.g., New Year, Christmas), it is suggested to offer festive promotions, such as bundled family meals or gifts like free drinks or holiday-themed desserts and toys with orders.
+
+-	Develop targeted marketing campaigns to promote veggie pizzas, emphasizing their value proposition and higher revenue contribution. We may introduce attractive bundle or combo deals for vegetarian pizzas to increase order sizes and sale volume.
+-	Leverage weekend and mealtime sales trends by optimizing staffing, stock levels, and marketing efforts during peak periods.
+-	Explore promotional activities and sales boosts to mitigate sales declines observed during specific weeks and months (e.g., week 39, September/October). On holiday periods (e.g., New Year, Christmas), it is suggested to offer festive promotions, such as bundled family meals or gifts like free drinks or holiday-themed desserts and toys with orders.
+
 **3.	Refine Operational Efficiency: **
-o	Dynamically adjust daily stock and preparation levels based on average daily sales and observed fluctuations in demand.
-o	Analyze and optimize ingredient purchasing based on customer preferences highlighted in the ingredient analysis.
-o	Consider implementing a system to better predict and manage the large variance in time between orders.
+
+-	Dynamically adjust daily stock and preparation levels based on average daily sales and observed fluctuations in demand.
+-	Analyze and optimize ingredient purchasing based on customer preferences highlighted in the ingredient analysis.
+-	Consider implementing a system to better predict and manage the large variance in time between orders.
 
 
 
