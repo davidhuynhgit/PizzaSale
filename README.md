@@ -4,15 +4,14 @@ Date: 22/02/2025
 ---
 By analyzing 2015 pizza sales data, this report aims to uncover valuable insights that can drive significant business improvements. The analysis will shed light on sale trends, customer behavior, product performance, enabling data-driven decisions to maximize revenue, enhance customer satisfaction, and streamline operations. The following snapshot illustrates the overview of key analysis for this report.
  
-
 # Contents
-I.	Key Performance Indicator (KPI)	2
-II.	Sale Trends Analysis	2
-III.	Product Performance Analysis	3
-IV.	Size and Ingredient Analysis	5
-V.	Order and Ingredient Correlations	6
-VI.	Order Frequency and Timing	7
-VII.	Conclusion and Recommendations	8
+- [I. Key Performance Indicator (KPI)](#i-key-performance-indicator-(kpi))
+- [II.	Sale Trends Analysis](#ii-sale-trends-analysis)
+- [III.	Product Performance Analysis](#iii-product-performance-analysis)
+- [IV.	Size and Ingredient Analysis](#iv-size-and-ingredient-analysis)
+- [V.	Order and Ingredient Correlations](#v-order-and-ingredient-correlations)
+- [VI.	Order Frequency and Timing](#vi-order-frequency-and-timing)
+- [VII.	Conclusion and Recommendations](#vii-conclusion-and-recommendations)
 
 # I.	Key Performance Indicator (KPI)
 This report presents an analysis of key performance indicators for the pizza manufacturing and ordering. They include Total Revenue, Total Quantity Sold, Total Orders, Average Order Value, and Average Pizzas per Order.
@@ -61,7 +60,7 @@ On the flipped side, veggie and supreme pizzas show near-zero correlations, indi
 In terms of orders, multi-item orders significantly outnumber single-item ones. Specifically, multi-item orders account for approximately 61.59% of all orders (13,150 orders), while single-item orders represent about 38.41% (8,200 orders). This indicates a clear preference among customers for purchasing multiple items in a single transaction.
 The analysis of order time intervals reveals that the average time between orders (within the same day) is 10.83 minutes. The longest interval between any two orders is 139 minutes, while the minimum interval between orders is 0 minutes, indicating that some orders were placed consecutively.
 These findings provide insight into the frequency of order placement. The average interval indicates a relatively consistent flow of orders, while the maximum and minimum intervals highlight the variability in order timing.
-VII.	Conclusion and Recommendations
+# VII.	Conclusion and Recommendations
 This comprehensive analysis of pizza manufacturing and ordering data for 2015 reveals a successful year, characterized by strong revenue and sales volume, driven primarily by classic and supreme pizzas. The business demonstrates a clear understanding of customer preferences, particularly regarding pizza sizes and ingredients. Sales trends highlight the influence of seasonal factors, holiday periods, weekend demand, and meal times, providing valuable insights for operational adjustments. The strong positive correlation between sales volume and revenue underscores the effectiveness of current sales strategies. However, discrepancies in revenue generation, such as the poor performance of certain vegetarian options, necessitate further investigation and strategic adjustments.
 Recommendations:
 **1.	Optimize Product Portfolio: **
