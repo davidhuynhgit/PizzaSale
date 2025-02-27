@@ -32,10 +32,10 @@ Daily sales exhibit a strong correlation with meal times. Revenue is minimal bet
 # III.	Product Performance Analysis
  
 The rankings reveal some interesting findings between quantity sold and revenue generated:
--	Classic Pizzas: Dominate both in terms of quantity sold and revenue with such great gaps, suggesting they are the most popular and contribute the most to the bottom line. This isn't surprising, as "classic" often refers to core, traditional offerings, which helps bring the brands to the customers.
--	Supreme Pizzas: Also perform strongly in both categories, ranking second in quantity and revenue. This indicates a good balance of popularity and profitability.
--	Chicken Pizzas: Show a noticeable difference in ranking. While they are the third most popular in terms of quantity, they generate the least revenue. This suggests a potentially lower price point or smaller portion sizes for chicken pizzas.
--	Veggie Pizzas: Present the most significant difference. They rank fourth in quantity sold but third in revenue generated, surpassing chicken pizzas. This implies that veggie pizzas, while not as frequently ordered, may have a higher price point or larger portion sizes than chicken pizzas, contributing more to overall revenue despite lower sales volume.
+-	**Classic Pizzas:** Dominate both in terms of quantity sold and revenue with such great gaps, suggesting they are the most popular and contribute the most to the bottom line. This isn't surprising, as "classic" often refers to core, traditional offerings, which helps bring the brands to the customers.
+-	**Supreme Pizzas:** Also perform strongly in both categories, ranking second in quantity and revenue. This indicates a good balance of popularity and profitability.
+-	**Chicken Pizzas:** Show a noticeable difference in ranking. While they are the third most popular in terms of quantity, they generate the least revenue. This suggests a potentially lower price point or smaller portion sizes for chicken pizzas.
+-	**Veggie Pizzas:** Present the most significant difference. They rank fourth in quantity sold but third in revenue generated, surpassing chicken pizzas. This implies that veggie pizzas, while not as frequently ordered, may have a higher price point or larger portion sizes than chicken pizzas, contributing more to overall revenue despite lower sales volume.
 The dominance of classic and supreme pizzas suggests that these categories are core offerings and should be maintained and potentially promoted. Understanding what makes these pizzas so popular can inform the development of new menu items. There might be an opportunity to increase the sales volume of veggie pizzas. Targeted marketing campaigns could highlight the value proposition of veggie pizzas, emphasizing their higher revenue contribution per unit. 
      
 The ranking for the most and least popular pizzas witness remarkable patterns. While the Classic pizzas (Deluxe, Hawaiian, Pepperoni) sell the most, the Chicken generates more revenue due to their higher margins. The top 5 popular pizzas contribute more than 20% in total quantity sold and 25% of the total sales. The vegetarian pizzas are the least popular ones, especially Brie Carre with only 490 in quantity sold, generating $11.5k throughout the year. This strengthens the case for reviewing these menu items. They might be candidates for removal.
@@ -66,20 +66,17 @@ This comprehensive analysis of pizza manufacturing and ordering data for 2015 re
 
 Recommendations:
 
-**1.	Optimize Product Portfolio: **
-
+**1.	Optimize Product Portfolio:**
 -	Capitalize on the popularity of classic and supreme pizzas by maintaining high standards and potentially introducing new variations.
 -	Conduct a thorough review of chicken and bacon-containing pizza pricing and portion sizes to address revenue discrepancies.
 -	Evaluate and potentially revise or remove low-performing vegetarian pizzas, such as Brie Carre, given the overall poor performance.
 
-**2.	Enhance Marketing and Sales Strategies: **
-
+**2.	Enhance Marketing and Sales Strategies:**
 -	Develop targeted marketing campaigns to promote veggie pizzas, emphasizing their value proposition and higher revenue contribution. We may introduce attractive bundle or combo deals for vegetarian pizzas to increase order sizes and sale volume.
 -	Leverage weekend and mealtime sales trends by optimizing staffing, stock levels, and marketing efforts during peak periods.
 -	Explore promotional activities and sales boosts to mitigate sales declines observed during specific weeks and months (e.g., week 39, September/October). On holiday periods (e.g., New Year, Christmas), it is suggested to offer festive promotions, such as bundled family meals or gifts like free drinks or holiday-themed desserts and toys with orders.
 
-**3.	Refine Operational Efficiency: **
-
+**3.	Refine Operational Efficiency:**
 -	Dynamically adjust daily stock and preparation levels based on average daily sales and observed fluctuations in demand.
 -	Analyze and optimize ingredient purchasing based on customer preferences highlighted in the ingredient analysis.
 -	Consider implementing a system to better predict and manage the large variance in time between orders.
