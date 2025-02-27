@@ -5,13 +5,13 @@ Date: 22/02/2025
 By analyzing 2015 pizza sales data, this report aims to uncover valuable insights that can drive significant business improvements. The analysis will shed light on sale trends, customer behavior, product performance, enabling data-driven decisions to maximize revenue, enhance customer satisfaction, and streamline operations. The following snapshot illustrates the overview of key analysis for this report.
  
 # Contents
-- [I. Key Performance Indicator (KPI)](#i-key-performance-indicator-(kpi))
-- [II.	Sale Trends Analysis](#ii-sale-trends-analysis)
-- [III.	Product Performance Analysis](#iii-product-performance-analysis)
-- [IV.	Size and Ingredient Analysis](#iv-size-and-ingredient-analysis)
-- [V.	Order and Ingredient Correlations](#v-order-and-ingredient-correlations)
-- [VI.	Order Frequency and Timing](#vi-order-frequency-and-timing)
-- [VII.	Conclusion and Recommendations](#vii-conclusion-and-recommendations)
+- [I. Key Performance Indicator (KPI)](#ikey-performance-indicator-(kpi))
+- [II.	Sale Trends Analysis](#iisale-trends-analysis)
+- [III.	Product Performance Analysis](#iiiproduct-performance-analysis)
+- [IV.	Size and Ingredient Analysis](#ivsize-and-ingredient-analysis)
+- [V.	Order and Ingredient Correlations](#vorder-and-ingredient-correlations)
+- [VI.	Order Frequency and Timing](#viorder-frequency-and-timing)
+- [VII.	Conclusion and Recommendations](#viiconclusion-and-recommendations)
 
 # I.	Key Performance Indicator (KPI)
 This report presents an analysis of key performance indicators for the pizza manufacturing and ordering. They include Total Revenue, Total Quantity Sold, Total Orders, Average Order Value, and Average Pizzas per Order.
